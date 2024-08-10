@@ -1,0 +1,150 @@
+nav{
+    position: relative;
+    top: 30px;
+}
+.img1{
+    width: 100%;
+    height: auto;
+}
+.chev{
+    font-size: 40px;
+    position: absolute;
+    top: 400px;
+    left: 930px;
+    color: black;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline;
+    margin: 30px;
+   cursor: pointer;
+   font-size: 20px;
+}
+nav ul{
+    position: absolute;
+    right: 190px;
+}
+.log{
+    position: absolute;
+    right: 110px;
+    top: 20px;
+    cursor: pointer;
+    font-size: 20px;
+}
+.icon{
+    position: absolute;
+    right: 70px;
+    top: 20px;
+    cursor: pointer;
+    font-size: 25px;
+    gap: 10px;
+}
+.shop{
+   position: absolute;
+   right: -40px;
+   top: 0px;
+}
+.logo{
+    font-size: 50px;
+    position: absolute;
+    left: 15px;
+}
+p{
+    font-size: 30px;
+    position: absolute;
+    top: -30px;
+    left: 30px;
+    color: #1d565e;
+}
+a{
+    text-decoration: none;
+}
+.experience{
+    font-size: 50px;
+    color: #1d565e;
+    position: absolute;
+    top: 270px;
+    left: 770px;
+}
+.underexper1{
+    font-size: 15px;
+    position: absolute;
+    top: 350px;
+    left: 750px;
+}
+.underexper2{
+    font-size: 15px;
+    position: absolute;
+    top: 370px;
+    left: 740px;
+}
+.underexper3{
+    font-size: 15px;
+    position: absolute;
+    top: 390px;
+    left: 870px;
+}
+
+/*;;;;;;;;;;;;;;;;;;;;;;;;;; end ;;;;;;;;;;;;;;;;;;;;;;;*/
+.end{
+    width: 100%;
+    height: 600px;
+    background-color: #1d565e;
+    position: absolute;
+    top: 3300px;
+ }
+ .lui ul li{
+    list-style-type: none;
+    margin-bottom: 10px;
+}
+.lui{
+
+     display: flex;
+     flex-direction: row;
+     gap: 40px;
+    cursor: pointer;      
+    color: aliceblue;
+    position: absolute;
+    right: 350px;
+    top: 100px;
+}
+.logoo{
+    font-size: 50px;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    color: aliceblue;
+}
+.endlink{
+    position: absolute;
+    bottom: 100px;
+    left: 100px;
+    color: aliceblue;
+}
+
+.massage{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 100px;
+    position: absolute;
+    top: 600px;
+    left: 620px;
+}
+
+.button{
+    font-size: 20px;
+    margin: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 20px;
+    border: 1px solid #1d565e;
+    padding: 5px;
+    color: #1d565e;
+    cursor: pointer;
+    
+}
+.button:hover{
+    background-color: #1d565e;
+    color: aliceblue;
+}

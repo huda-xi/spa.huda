@@ -1,0 +1,301 @@
+nav{
+    position: relative;
+    top: 30px;
+}
+
+.img1{
+    width: 100%;
+    height: auto;
+}
+.chev{
+    font-size: 40px;
+    position: absolute;
+    top: 400px;
+    left: 930px;
+    color: black;
+}
+html{
+    scroll-behavior: smooth;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline;
+    margin: 30px;
+   cursor: pointer;
+   font-size: 20px;
+}
+nav ul{
+    position: absolute;
+    right: 190px;
+}
+.log{
+    position: absolute;
+    right: 110px;
+    top: 20px;
+    cursor: pointer;
+    font-size: 20px;
+}
+.icon{
+    position: absolute;
+    right: 70px;
+    top: 20px;
+    cursor: pointer;
+    font-size: 25px;
+    gap: 10px;
+}
+.shop{
+   position: absolute;
+   right: -40px;
+   top: 0px;
+}
+.logo{
+    font-size: 50px;
+    position: absolute;
+    left: 15px;
+}
+p{
+    font-size: 30px;
+    position: absolute;
+    top: -30px;
+    left: 30px;
+    color: #1d565e;
+}
+.welcome{
+    font-size: 80px;
+    position: absolute;
+    top: 220px;
+    left: 750px;
+}
+.to{
+    font-size: 80px;
+    position: absolute;
+    top: 300px;
+    left: 700px;
+}
+      /*;;;;;;;;;;;;;;;;;;;;; page 2222222222222222222 ;;;;;;;;;;;;;;;;;;;;;; */
+.tadlek{
+    position: absolute;
+    right: 200px;
+    top: 1200px;
+    width: 700px;
+    height: 850px;
+}
+
+.calm{
+    font-size: 50px;
+    position: absolute;
+    left: 220px;
+    top: 1350px;
+    color: rgb(53, 94, 95);
+}
+.undercalm1{
+    position: absolute;
+    top: 1450px;
+    left: 215px;
+}
+.undercalm2{
+    position: absolute;
+    top: 1470px;
+    left: 210px;
+}
+.undercalm3{
+    position: absolute;
+    top: 1490px;
+    left: 343px;
+}
+.learn{
+    padding: 30px;
+    border-radius: 50%;
+    border: 2px solid rgb(53, 94, 95);
+    color: rgb(53, 94, 95);
+    position: absolute;
+    top: 1600px;
+    left: 350px;
+    display: inline;
+    cursor: pointer;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+a{
+    text-decoration: none;
+}
+.learn:hover{
+    background-color: rgb(53, 94, 95);
+    color: aliceblue;
+}
+.page2{
+    position: absolute;
+    top: 1680px;
+    left: 230px;
+}
+        /*;;;;;;;;;;;;;;;;;;;;; page 33333333333333333333 ;;;;;;;;;;;;;;;;;; */
+.peacful{
+    font-size: 50px;
+    position: absolute;
+    top: 2350px;
+    right: 130px;
+    color: rgb(53, 94, 95) ;
+}
+.underpeac1{
+    position: absolute;
+    top: 2420px;
+    right: 240px;
+}
+.underpeac2{
+    position: absolute;
+    top: 2440px;
+    right: 230px;
+}
+.underpeac3{
+    position: absolute;
+    top: 2460px;
+    right: 400px; 
+}
+.page3{
+    display: flex;
+    gap: 15px;
+    position: absolute;
+    top: 2630px;
+    left: 170px;
+}
+.book{
+    padding: 40px;
+    border-radius: 50%;
+    border: 2px solid rgb(53, 94, 95);
+    color: rgb(53, 94, 95);
+    position: absolute;
+    top: 2700px;
+    right: 200px;
+    display: inline;
+    cursor: pointer;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.book:hover{
+    background-color: rgb(53, 94, 95);
+    color: aliceblue;
+}
+      /*;;;;;;;;;;;;;;;;;;;;; page 44444444444444444 ;;;;;;;;;;;;;;;;;; */
+  .page41{
+    position: absolute;
+    top: 3400px;
+    right: 0px;
+  }    
+  .get{
+    font-size: 45px;
+    position: absolute;
+    top: 3500px;
+    left: 300px;
+    color: rgb(53, 94, 95);
+  }
+  .at{
+    font-size: 45px;
+    position: absolute;
+    top: 3550px;
+    left: 350px;
+    color: rgb(53, 94, 95);
+  }
+  .prag{
+    position: absolute;
+    top: 3630px;
+    left: 290px;
+}
+.shop2{
+    position: absolute;
+    top: 3820px;
+    left: 390px;
+    padding: 40px;
+    border-radius: 50%;
+    border: 2px solid rgb(53, 94, 95);
+    color: rgb(53, 94, 95);
+    display: inline;
+    cursor: pointer;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.shop2:hover{
+    background-color: rgb(53, 94, 95);
+    color: aliceblue;
+}
+.page42{
+    position: absolute;
+    top: 4100px;
+}
+     /* ;;;;;;;;;;;;;;;;;; page 55555555555555 ;;;;;;;;;;;;;;;;;;;;*/
+     .page5{
+        position: absolute;
+        right: 0px;
+        top: 4950px;
+     }
+     .open{
+        font-size: 60px;
+        position: absolute;
+        top: 5100px;
+        left: 350px;
+        color: rgb(49, 71, 82);
+     }
+     .hours{
+        display: flex;
+        flex-direction: row;
+        font-size: 20px;
+        gap: 60px;
+        position: absolute;
+        top: 5250px;
+        left: 350px;
+        color: rgb(49, 71, 82);
+     }
+     .location{
+        font-size: 50px;
+        position: absolute;
+        top: 5700px;
+        left: 780px;
+        color: rgb(53, 94, 95);
+     }
+     .terry{
+        position: absolute;
+        top: 5790px;
+        left: 800px;
+     }
+     .page6{
+        display: flex;
+        flex-direction: row;
+        gap: 30px;
+        position: absolute;
+        top: 5900px;
+        left: 210px ;
+     }
+     .end{
+        width: 100%;
+        height: 600px;
+        background-color: #1d565e;
+        position: absolute;
+        top: 6740px;
+     }
+     .lui ul li{
+        list-style-type: none;
+        margin-bottom: 10px;
+    }
+    .lui{
+    
+         display: flex;
+         flex-direction: row;
+         gap: 40px;
+        cursor: pointer;      
+        color: aliceblue;
+        position: absolute;
+        right: 350px;
+        top: 100px;
+    }
+    .logoo{
+        font-size: 50px;
+        position: absolute;
+        top: 100px;
+        left: 100px;
+        color: aliceblue;
+    }
+    .endlink{
+        position: absolute;
+        bottom: 100px;
+        left: 100px;
+        color: aliceblue;
+    }
